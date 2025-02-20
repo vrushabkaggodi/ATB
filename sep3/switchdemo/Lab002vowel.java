@@ -11,7 +11,7 @@ public class Lab002vowel {
         String c = sc.next();
         c = c.toLowerCase(Locale.ROOT);
 
-        switch (c){
+        switch (c) {
             case "a":
             case "e":
             case "i":

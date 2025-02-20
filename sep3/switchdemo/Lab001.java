@@ -8,7 +8,7 @@ public class Lab001 {
         System.out.println("Enter day : ");
         int day = sc.nextInt();
 
-        switch (day){
+        switch (day) {
             case 1:
                 System.out.println("Mon");
                 break;
